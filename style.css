@@ -1,0 +1,76 @@
+body {
+    text-align: center;
+    background-image:url(https://resources.platform.iplt20.com/IPL/photo/2018/02/14/b51de0f4-e8ba-4840-bee6-7b27c8d23214/IPL-Logo.jpg);
+    background-size:100% 135%;
+}
+
+.stats {
+    display: inline-flex;
+    height: 100px;
+    width: 65%;
+    border-radius: 10px;
+}
+
+#most_runs {
+    background-color:darkred;
+}
+
+#most_wickets {
+    background-color:#005ea0;
+}
+#most_centuries{
+    background-color: brown;
+}
+
+#most_fifties{
+    background-color:#e38400;
+}
+
+img {
+    height: 90px;
+    border-radius: 50%;
+    margin-top: 5px;
+    width: 90px;
+}
+
+#content{
+    font-size: 20px;
+    margin-top:40px;
+    color: azure;
+    font-weight: 400;
+    font-family: 'Open Sans', sans-serif;
+}
+.first_name{
+    font-weight: 600;
+    font-size:24px;
+    color: azure;
+    margin-top: 35px;
+    font-family: 'Open Sans', sans-serif;
+}
+.last_name{
+    font-size:20px;
+    color: azure;
+    margin-top:40px;
+    font-weight: 400;
+    font-family: 'Open Sans', sans-serif;
+}
+#statistics{
+    display:inline;
+}
+#content2{
+    margin-top:10px;
+    margin-bottom:30px;
+    font-weight: 400;
+    font-family: 'Open Sans', sans-serif;
+    color: azure;
+}
+#numbers{
+    font-weight: 400;
+    font-family: 'Open Sans', sans-serif;
+    color: azure;
+}
+#bold{
+    font-family: 'Kufam', cursive;
+    font-size:20px;
+    color:azure;
+}
